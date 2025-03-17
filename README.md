@@ -3,4 +3,4 @@
 This is for the interview I had today.
 
 ## Screenshot
-![App Screenshot](resultInterviewApp.PNG)
+![App Screenshot](app/src/main/java/com/example/myapplication/resultInterviewApp.PNG)
